@@ -15,6 +15,7 @@ function handleClick() {
             message.textContent = 'Waiting for yellow...';
             
             const waitTime = 1000 + Math.floor(Math.random() * 4000);
+            console.log(`Yellow for ${waitTime} ms`); //dev mode
             
             timeoutId = setTimeout(() => {
                 state = 'yellow';
