@@ -47,6 +47,15 @@ open index.html
 5. View your reaction time result
 6. Click again to restart the test
 
+## Trigger bot
+> [**!Alert**]
+> **Don't use this to cheat others.**
+- The program scans the screen for yellow pixels.
+
+- When yellow is detected, it moves the mouse 100px above the center of the screen.
+
+- It then automatically clicks the mouse.
+
 ## Developer
 
 Developed by MASTER T © 2025
