@@ -34,6 +34,9 @@ git clone https://github.com/MASTER-TANKHUN/Reaction_time_test
 cd Reaction_time_test
 open index.html
 ```
+**or**
+
+- Click to download the file.
 
 ## Usage
 
