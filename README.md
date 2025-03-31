@@ -14,7 +14,7 @@ The web test gauges reaction time by having a user click the instant the screen 
 
 ## How It Works
 
-1. **Start Screen**: The program begins with a red screen with instructions in Thai.
+1. **Start Screen**: The program begins with a red screen with instructions in English.
 2. **Waiting Phase**: The screen is red after the user has clicked to begin and instructs the user to wait for the yellow screen.
 3. **Test Phase**: After a random waiting time, the screen becomes yellow and instructs the user to click as soon as possible.
 4. **Results**: Upon clicking, the screen goes black and shows the user's reaction time in milliseconds.
